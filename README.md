@@ -1,6 +1,3 @@
-# SuperHero_Hunter_Js_project
-Super Hero Hunter Project Using HTML CSS JAVASCRIPT
-
 # SuperHeroHunter
 this is a super hero website where you can search about superheros and store them favourite
 This is a super hero hunter website made by html,css,javascript and bootstrap.so this is a website where you can search about any super hero's and know their details
